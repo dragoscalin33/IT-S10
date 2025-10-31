@@ -15,15 +15,15 @@ Finalmente, el proyecto explora funciones más abstractas, como la automatizaci�
 | Archivo / Carpeta | Descripción |
 | --- | --- |
 | `sprint_10.ipynb` | Notebook de Jupyter con todos los enunciados, código y ejecuciones. |
-| `sprint10.xlsx` | Datos fuente (brutos) sobre los trabajadores para los Niveles 1 y 2. |
-| `matriu_distancies.xlsx` | Datos fuente (matriz) para el ejercicio de optimización de rutas (Nivel 3). |
-| `dades_GrupA.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
-| `dades_GrupB.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
-| `dades_GrupC.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
-| `dades_GrupD.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
-| `resumen_grupos_profesionales.xlsx` | Fichero de resumen exportado con estadísticas por grupo (Nivel 2). |
-| `titanic_age.png` | Ejemplo de gráfico autogenerado por la función del Nivel 3. |
-| `titanic_deck.png` | Ejemplo de gráfico autogenerado por la función del Nivel 3. |
+| `data/sprint10.xlsx` | Datos fuente (brutos) sobre los trabajadores para los Niveles 1 y 2. |
+| `outputs/matriu_distancies.xlsx` | Datos fuente (matriz) para el ejercicio de optimización de rutas (Nivel 3). |
+| `outputs/dades_GrupA.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
+| `outputs/dades_GrupB.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
+| `outputs/dades_GrupC.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
+| `outputs/dades_GrupD.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
+| `data/resumen_grupos_profesionales.xlsx` | Fichero de resumen exportado con estadísticas por grupo (Nivel 2). |
+| `outputs/titanic_age.png` | Ejemplo de gráfico autogenerado por la función del Nivel 3. |
+| `outputs/titanic_deck.png` | Ejemplo de gráfico autogenerado por la función del Nivel 3. |
 | `README.md` | Este documento. |
 
 ---
