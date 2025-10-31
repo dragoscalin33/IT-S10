@@ -134,8 +134,8 @@ Crear una función genérica y reutilizable (`generar_graficos_auto`) que acepte
 
 **Ejemplos de salida:**
 
-outputs/titanic_age.png
-outputs/titanic_deck.png
+![Histograma de age](outputs/titanic_age.png)
+![Recuento de deck](outputs/titanic_deck.png)
 
 ---
 
