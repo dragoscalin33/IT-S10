@@ -16,12 +16,12 @@ Finalmente, el proyecto explora funciones más abstractas, como la automatizaci�
 | --- | --- |
 | `sprint_10.ipynb` | Notebook de Jupyter con todos los enunciados, código y ejecuciones. |
 | `data/sprint10.xlsx` | Datos fuente (brutos) sobre los trabajadores para los Niveles 1 y 2. |
-| `outputs/matriu_distancies.xlsx` | Datos fuente (matriz) para el ejercicio de optimización de rutas (Nivel 3). |
+| `data//matriu_distancies.xlsx` | Datos fuente (matriz) para el ejercicio de optimización de rutas (Nivel 3). |
 | `outputs/dades_GrupA.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
 | `outputs/dades_GrupB.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
 | `outputs/dades_GrupC.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
 | `outputs/dades_GrupD.xlsx` | Ejemplo de fichero exportado automáticamente (Nivel 2). |
-| `data/resumen_grupos_profesionales.xlsx` | Fichero de resumen exportado con estadísticas por grupo (Nivel 2). |
+| `outputs/resumen_grupos_profesionales.xlsx` | Fichero de resumen exportado con estadísticas por grupo (Nivel 2). |
 | `outputs/titanic_age.png` | Ejemplo de gráfico autogenerado por la función del Nivel 3. |
 | `outputs/titanic_deck.png` | Ejemplo de gráfico autogenerado por la función del Nivel 3. |
 | `README.md` | Este documento. |
@@ -131,6 +131,11 @@ Crear una función genérica y reutilizable (`generar_graficos_auto`) que acepte
 * **Si la columna es Categórica (o tiene pocos valores únicos):** Genera un **gráfico de barras** con el recuento de frecuencias.
 * **Si la columna es Datetime:** Genera un **gráfico de barras** contando los valores por año.
 * La función se prueba con el dataset "titanic" de Seaborn.
+
+**Ejemplos de salida:**
+
+(outputs/titanic_age.png)
+(outputs/titanic_deck.png)
 
 ---
 
