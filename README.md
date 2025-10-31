@@ -1,4 +1,4 @@
-# Tarea S10: Limpieza y Manipulación de Datos con Pandas
+# Limpieza y Manipulación de Datos con Pandas
 
 ## Objetivo del Proyecto
 
